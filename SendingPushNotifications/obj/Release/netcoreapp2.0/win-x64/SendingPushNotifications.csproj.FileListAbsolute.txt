@@ -1,0 +1,15 @@
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\bin\Release\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\bin\Release\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\bin\Release\netcoreapp2.0\win-x64\SendingPushNotifications.exe
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\bin\Release\netcoreapp2.0\win-x64\appsettings.json
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\bin\Release\netcoreapp2.0\win-x64\SendingPushNotifications.deps.json
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\bin\Release\netcoreapp2.0\win-x64\SendingPushNotifications.runtimeconfig.json
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\bin\Release\netcoreapp2.0\win-x64\SendingPushNotifications.runtimeconfig.dev.json
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\bin\Release\netcoreapp2.0\win-x64\SendingPushNotifications.dll
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\bin\Release\netcoreapp2.0\win-x64\SendingPushNotifications.pdb
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\obj\Release\netcoreapp2.0\win-x64\SendingPushNotifications.csprojAssemblyReference.cache
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\obj\Release\netcoreapp2.0\win-x64\SendingPushNotifications.csproj.CoreCompileInputs.cache
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\obj\Release\netcoreapp2.0\win-x64\SendingPushNotifications.AssemblyInfoInputs.cache
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\obj\Release\netcoreapp2.0\win-x64\SendingPushNotifications.AssemblyInfo.cs
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\obj\Release\netcoreapp2.0\win-x64\SendingPushNotifications.dll
+C:\Users\adil.raza\Downloads\Firebase-PN-From-a-.NET-Backend-master\Firebase-PN-From-a-.NET-Backend-master\SendingPushNotifications\obj\Release\netcoreapp2.0\win-x64\SendingPushNotifications.pdb
